@@ -1,8 +1,8 @@
 <?php
 
 /**
-* ひとこと掲示板
-* @author nixnoughtnothing <ryoh.t778@gmail.com>
+* ひとこと掲示板(BBS)
+* @author nixnoughtnothing
 */
 require_once($_SERVER['DOCUMENT_ROOT'].'/oneline_bbs/define.php');
 
