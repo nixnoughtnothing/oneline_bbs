@@ -1,5 +1,8 @@
 <?php
 
+/**
+* ひとこと掲示板
+*/
 require_once($_SERVER['DOCUMENT_ROOT'].'/oneline_bbs/define.php');
 
 
