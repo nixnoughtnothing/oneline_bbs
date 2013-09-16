@@ -2,7 +2,7 @@
 
 /**
 * ひとこと掲示板
-* @author nixnoughtnothing
+* @author nixnoughtnothing <ryoh.t778@gmail.com>
 */
 require_once($_SERVER['DOCUMENT_ROOT'].'/oneline_bbs/define.php');
 
